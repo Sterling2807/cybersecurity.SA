@@ -1,0 +1,16 @@
+.navbar{
+	background: rgb(60,75,231);
+    background: linear-gradient(90deg, rgba(60,75,231,0.5718662464985995) 0%, 
+	rgba(196,113,237,0.5634628851540616) 53%, rgba(246,79,89,0.5606617647058824) 100%);
+	Box-shadow: 02px 4px 0 rgba (0,0,0,.05);
+	Min-height:100px;
+}
+
+.nav-link{
+	color: #FFF;
+	font-weight: 600;
+	margin-right: 10px;
+}
+
+.navbar-toggler{font-size:30px;}
+.navbar-toggler:focus{outline:none;}
